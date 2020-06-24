@@ -35,7 +35,7 @@ clc, clear all, close all;
     segundoOrdenPuntoMedio(xi, arrYi, h, funcion)
     segundoOrdenRalston(xi, arrYi, h, funcion)
     cuartoOrden(xi, arrYi, h, funcion)
-    funcionOriginal(xi, arrYi, funcion); % Para el caso de las funciones que utilizan dos variables
+%     funcionOriginal(xi, arrYi, funcion); % Para el caso de las funciones que utilizan dos variables
                                          % es necesario graficarlas en un plano de tres dimensiones
     
 end
